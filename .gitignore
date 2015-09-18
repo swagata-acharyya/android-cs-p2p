@@ -1,0 +1,52 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+# Windows
+thumbs.db
+
+# Mac OSX
+__MACOSX
+installADB.sh
+
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.checkstyle
+.pmd
+.externalToolBuilders/
+
+# Android SDK
+bin/
+gen/
+libs/
+tmp/
+
+# Maven
+classes/
+target/
+*.releaseBackup
+*.versionsBackup
+release.properties
+
+# Misc
+carbon/.car
+client/assets/
+client-test/assets/
+mi-send-tool/dependency-reduced-pom.xml
+client/gen-external-apklibs/
+
+# Vi temp files
+*.swp
+*~
+
